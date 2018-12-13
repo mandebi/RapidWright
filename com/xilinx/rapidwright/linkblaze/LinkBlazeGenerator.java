@@ -120,7 +120,7 @@ public class LinkBlazeGenerator {
 		 * 
 		 * Slave node built on node 7 with the pblock range SLICE_X96Y424:SLICE_X105Y475
 		 *Master node built on node 10 with the pblock range SLICE_X96Y664:SLICE_X105Y715 
-		 *PCI Master node built on node 2 with the pblock range SLICE_X96Y137:SLICE_X105Y188
+		 *PCI Master node built on node 2 with the pblock range SLICE_X96Y132:SLICE_X105Y183
 		 *   */
 		
 		 nodeTileMap.put(LinkBlazeResources.NODE_ARRAY[0], -1
